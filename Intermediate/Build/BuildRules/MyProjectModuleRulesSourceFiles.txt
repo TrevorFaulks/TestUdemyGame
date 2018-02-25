@@ -1,0 +1,3 @@
+C:\Users\Mev\source\repos\03_BuildingEscape\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Users\Mev\source\repos\03_BuildingEscape\MyProject\Source\MyProject.Target.cs
+C:\Users\Mev\source\repos\03_BuildingEscape\MyProject\Source\MyProjectEditor.Target.cs
