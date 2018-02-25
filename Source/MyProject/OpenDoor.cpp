@@ -1,9 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "MyProject.h"
-
-#include "Components/PrimitiveComponent.h"
 #include "OpenDoor.h"
+#include "Components/PrimitiveComponent.h"
 
 #define OUT
 
